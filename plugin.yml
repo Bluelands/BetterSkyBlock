@@ -1,4 +1,4 @@
-name: SkyBlock
+name: BetterSkyBlock
 main: SkyBlock\Bluelands\Main
 version: 1.0
 api: 3.0.0
