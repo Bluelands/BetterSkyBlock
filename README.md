@@ -1,2 +1,3 @@
 # BetterSkyBlock
-SkyBlock Plugin By Bluelands
+Description Comming Soon! Command: /is
+Hope PMMP Aproves This.
