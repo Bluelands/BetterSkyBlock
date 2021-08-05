@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"geometry.kingslime": {
+		"texturewidth": 128,
+		"textureheight": 128,
+		"visible_bounds_width": 3,
+		"visible_bounds_height": 2,
+		"visible_bounds_offset": [0, 1, 0],
+		"bones": [
+			{
+				"name": "head",
+				"pivot": [0, 36, 8],
+				"cubes": [
+					{"origin": [-10.5, 14, -10.5], "size": [21, 2, 21], "uv": [0, 70]},
+					{"origin": [-10, 14, -10], "size": [20, 20, 20], "uv": [0, 70]},
+					{"origin": [-8, 18, -8], "size": [16, 18, 16], "uv": [0, 70]},
+					{"origin": [-6, 25, -6], "size": [12, 12, 12], "uv": [0, 70]}
+				]
+			}
+		]
+	}
+}
