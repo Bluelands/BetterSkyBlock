@@ -1,8 +1,8 @@
 name: SkyBlock
 main: SkyBlock\Bluelands\Main
 version: 1
-api: 3
+api: 3.0
 
 commands:
  is:
-     description: SkyBlock plugin command
+     description: BetterSkyBlock plugin command
